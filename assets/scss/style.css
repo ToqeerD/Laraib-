@@ -3736,6 +3736,9 @@ button.tm-videobutton:hover span {
 .tm-servicedetails ul {
   margin-bottom: 0;
 }
+.tm-servicedetails h1 {
+  font-size: 30px;
+}
 
 /**
  * Testimonial
