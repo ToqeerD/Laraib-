@@ -1,11 +1,11 @@
 /**
  * Contact
  */
-.tm-contact-formwrapper{
-    label{
-        margin-left: 12px;
-    }
-}
+// .tm-contact-formwrapper{
+//     label{
+//         margin-left: 12px;
+//     }
+// }
 .tm-contact {
     &-block {
         box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -63,6 +63,7 @@
         textarea {
             padding: 0 12px;
             border: 0;
+            border-radius: 5px;
             border: 1px solid $color-border;
 
             &:focus,

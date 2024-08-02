@@ -5967,10 +5967,6 @@ button.tm-videobutton:hover span {
 /**
  * Contact
  */
-.tm-contact-formwrapper label {
-  margin-left: 12px;
-}
-
 .tm-contact-block {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 40px 50px;
