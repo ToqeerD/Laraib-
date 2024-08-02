@@ -3723,6 +3723,10 @@ button.tm-videobutton:hover span {
 /* Service Details */
 .tm-servicedetails img {
   margin-bottom: 5px;
+  height: 300px;
+  object-fit: cover;
+  object-position: center;
+  width: 100%;
 }
 .tm-servicedetails h5 {
   margin-top: 25px;

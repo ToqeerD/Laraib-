@@ -3728,6 +3728,12 @@ button.tm-videobutton:hover span {
 /* Service Details */
 .tm-servicedetails img {
   margin-bottom: 5px;
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+  width: 100%;
 }
 .tm-servicedetails h5 {
   margin-top: 25px;
