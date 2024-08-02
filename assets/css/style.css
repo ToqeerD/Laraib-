@@ -6013,9 +6013,9 @@ button.tm-videobutton:hover span {
 }
 .tm-contact-formfield input,
 .tm-contact-formfield textarea {
-  padding: 0;
+  padding: 0 12px;
   border: 0;
-  border-bottom: 1px solid #dddddd;
+  border: 1px solid #dddddd;
 }
 .tm-contact-formfield input:focus, .tm-contact-formfield input:active,
 .tm-contact-formfield textarea:focus,
@@ -6023,7 +6023,7 @@ button.tm-videobutton:hover span {
   border-color: #D6B161;
 }
 .tm-contact-formfield textarea {
-  padding: 10px 0;
+  padding: 10px 12px;
 }
 .tm-contact-formfield .tm-button {
   margin-top: 15px;
